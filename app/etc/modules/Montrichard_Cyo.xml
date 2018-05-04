@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+ 
+<config>
+    <modules>
+        <Montrichard_Cyo>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Montrichard_Cyo>
+    </modules>
+</config>

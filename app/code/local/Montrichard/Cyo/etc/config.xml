@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+ 
+<config>
+    <modules>
+        <Montrichard_Cyo>
+            <version>0.1.0</version>
+        </Montrichard_Cyo>
+    </modules>    
+    <frontend>
+        <routers>
+            <Montrichard_Cyo_SomeFreeRouterName1>
+                <use>standard</use>
+                <args>
+                    <module>Montrichard_Cyo</module>
+                    <frontName>montrichard-cyo</frontName>
+                </args>
+            </Montrichard_Cyo_SomeFreeRouterName1>
+        </routers>
+    </frontend>    
+</config>
